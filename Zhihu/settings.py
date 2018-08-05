@@ -97,9 +97,9 @@ ITEM_PIPELINES = {
 
 #------<<MySql数据库信息>>-------
 MYSQL_HOST = 'localhost'
-MYSQL_DBNAME = 'article'
+MYSQL_DBNAME = 'zhihu'
 MYSQL_USER = 'root'
-MYSQL_PASSWD = 'Mao469580895.'
+MYSQL_PASSWD = '123456'
 
 SQL_DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"
 SQL_DATE_FORMAT = "%Y-%m-%d"
